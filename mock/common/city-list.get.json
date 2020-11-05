@@ -1,0 +1,153 @@
+{
+  "Code": 0,
+  "Data": {
+    "count": 36,
+    "items": [
+      {
+        "cityId": 112,
+        "cityName": "杭州市"
+      },
+      {
+        "cityId": 115,
+        "cityName": "宁波市"
+      },
+      {
+        "cityId": 331,
+        "cityName": "西安市"
+      },
+      {
+        "cityId": 259,
+        "cityName": "成都市"
+      },
+      {
+        "cityId": 38,
+        "cityName": "重庆市"
+      },
+      {
+        "cityId": 234,
+        "cityName": "深圳市"
+      },
+      {
+        "cityId": 193,
+        "cityName": "武汉市"
+      },
+      {
+        "cityId": 224,
+        "cityName": "广州市"
+      },
+      {
+        "cityId": 159,
+        "cityName": "济南市"
+      },
+      {
+        "cityId": 40,
+        "cityName": "石家庄市"
+      },
+      {
+        "cityId": 160,
+        "cityName": "青岛市"
+      },
+      {
+        "cityId": 97,
+        "cityName": "南京市"
+      },
+      {
+        "cityId": 149,
+        "cityName": "南昌市"
+      },
+      {
+        "cityId": 63,
+        "cityName": "大连市"
+      },
+      {
+        "cityId": 138,
+        "cityName": "福州市"
+      },
+      {
+        "cityId": 211,
+        "cityName": "长沙市"
+      },
+      {
+        "cityId": 280,
+        "cityName": "贵阳市"
+      },
+      {
+        "cityId": 176,
+        "cityName": "郑州市"
+      },
+      {
+        "cityId": 36,
+        "cityName": "天津市"
+      },
+      {
+        "cityId": 100,
+        "cityName": "苏州市"
+      },
+      {
+        "cityId": 139,
+        "cityName": "厦门市"
+      },
+      {
+        "cityId": 61,
+        "cityName": "沈阳市"
+      },
+      {
+        "cityId": 98,
+        "cityName": "无锡市"
+      },
+      {
+        "cityId": 75,
+        "cityName": "长春市"
+      },
+      {
+        "cityId": 121,
+        "cityName": "合肥市"
+      },
+      {
+        "cityId": 235,
+        "cityName": "珠海市"
+      },
+      {
+        "cityId": 289,
+        "cityName": "海口市"
+      },
+      {
+        "cityId": 167,
+        "cityName": "临沂市"
+      },
+      {
+        "cityId": 152,
+        "cityName": "抚州市"
+      },
+      {
+        "cityId": 104,
+        "cityName": "徐州市"
+      },
+      {
+        "cityId": 110,
+        "cityName": "舟山市"
+      },
+      {
+        "cityId": 340,
+        "cityName": "铜川市"
+      },
+      {
+        "cityId": 116,
+        "cityName": "绍兴市"
+      },
+      {
+        "cityId": 296,
+        "cityName": "东方市"
+      },
+      {
+        "cityId": 295,
+        "cityName": "万宁市"
+      },
+      {
+        "cityId": 41,
+        "cityName": "保定市"
+      }
+    ]
+  },
+  "ServerTime": "2017-04-17 19:18:47"
+}

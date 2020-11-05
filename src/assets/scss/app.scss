@@ -1,0 +1,244 @@
+
+$red: #F64C48;
+$blue: #409EFF;
+$green: #66C23A;
+$grey: #999999;
+$orange: #ff5501;
+$yellow: #ff801a;
+$purple: #6571b3;
+$white: #ffffff;
+
+$grey_dark: #666666;
+$grey_dark2: #B3BCCD;
+$blue_dark: #008ee6;
+
+$grey_light: #cccccc;
+$green_light: #79c447;
+$orange_light: #fb7e00;
+$yellow_light: #fea90b;
+
+body{
+    margin: 0;
+    background-color: $white;
+    font-size: 14px;
+}
+// .el-table{font-size: 13px;}
+.fs12{font-size:12px; }
+.fs13{font-size:13px; }
+.fs14{font-size:14px; }
+.fs16{font-size:16px; }
+
+.ml5{margin-left: 5px;}
+.ml10{margin-left:10px}
+.ml20{margin-left:20px}
+.ml40{margin-left:40px}
+.mr10{margin-right:10px}
+.mr20{margin-right:20px}
+.mt10{margin-top:10px}
+.mt5{margin-top:5px}
+.mt20{margin-top:20px}
+.mb5{margin-bottom:5px}
+.mb10{margin-bottom:10px}
+.mb20{margin-bottom:20px}
+.mb30{margin-bottom:30px}
+.pl10{padding-left:10px}
+.pl20{padding-left:20px}
+.pl30{padding-left:30px}
+.pr10{padding-right:10px}
+.pr20{padding-right:20px}
+.pt10{padding-top:10px}
+.pb10{padding-bottom:10px}
+.pt20{padding-top:20px}
+.pb20{padding-bottom:20px}
+.pb30{padding-bottom:30px}
+.pr50{padding-right:50px}
+
+.lh40{
+    line-height: 40px;
+}
+p, div, ul, li, ol, i, em, span, input[placeholder], textarea[placeholder]{
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+
+.float-left,.fl{float: left;}
+.float-right,.fr{float: right;}
+.bold{font-weight: 700;}
+.clearfix::after {clear: both;content: ".";display: block;font-size: 0;height: 0;line-height: 0;overflow: hidden;}
+.clearfix{zoom: 1;}
+.w100{width: 100px;}
+.w120{width: 120px;}
+.w200{width: 200px;}
+.w240{width: 240px;}
+.w500{width: 500px;}
+.w620{width: 620px;}
+.whalf{width: 50%;}
+// .inputnone {
+//     .el-input__inner{
+//         padding: 0;border:none;
+//     }
+
+// }
+#global-loading{z-index: 9999;}
+.globaleremark{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.text-left{text-align: left;}
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+
+.cur_pointer{cursor: pointer;}
+.cur_zoomin{cursor: zoom-in;}
+
+.hidden{display: none !important;}
+
+a{color: #20a0ff;text-decoration: none;}
+
+.color_red{color: $red;}
+
+.color_blue{color: $blue;}
+
+.color_green{color: $green;}
+
+.color_grey{color: $grey;}
+
+.color_tooltip{color: $grey_dark2;}
+
+.color_orange{color: $orange;}
+
+.color_yello{color: $yellow;}
+
+.color_purple{color: $purple;}
+
+.color_dark{color: $grey_dark;}
+
+.bg_red{background: $red;}
+
+.bg_blue{background: $blue_dark;}
+
+.bg_green{background: $green_light;}
+
+.bg_grey{background: $grey;}
+
+.bg_orange{background: $orange_light;}
+
+.bg_yellow{background: $yellow_light;}
+
+.bg_purple{background: $purple;}
+
+.bg_white{background-color: #fff;}
+.el-dialog__footer{
+    text-align: center
+}
+
+p,div,ul,li,ol,i,em,span,input[placeholder], textarea[placeholder]{font-family: 'Microsoft YaHei', 'Avenir', Helvetica, Arial, sans-serif;}
+.underline {
+    text-decoration:underline;
+    cursor: pointer;
+}
+.el-button--cancel{
+    border: 1px solid #c4c4c4;
+    color: #1f2d3d;
+    background-color: #fff;
+}
+.el-message-box__header .el-message-box__headerbtn{
+    display: none
+}
+// 交易订单
+.transaction-order #moreSearchDialog .el-dialog--tiny{width: 500px;}
+.transaction-update #dialogDelete .el-dialog--tiny{width: 420px;}
+.transaction-update #sureDialog .el-dialog--tiny{width: 420px;}
+
+// 上传样式
+.avatar-uploader .el-upload {
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.avatar-uploader .el-upload:hover {
+    border-color: #20a0ff;
+}
+.avatar-uploader-icon {
+    font-size: 28px;
+    color: #8c939d;
+    width: 178px;
+    height: 178px;
+    line-height: 178px;
+    text-align: center;
+}
+.avatar {
+    width: 178px;
+    height: 178px;
+    display: block;
+}
+.transaction-update #totalTable .el-table__header{display: none;}
+
+// 交易管理
+.transaction #totalTable .el-table__header{display: none;}
+.transaction-order #totalTable .el-table__header{display: none;}
+#createTradeDialog .step-one .table-wrapper .el-radio .el-radio__label{display: none;}
+#houseDialog .transaction-house .table-wrapper .el-radio .el-radio__label{display: none;}
+// 跳点确认
+.jump-points-edit #jumpPointsEditDialog .el-dialog--tiny{width: 450px;}
+
+// messagebox
+.el-message-box__btns{text-align: center;}
+.el-message-box__btns button{width: 100px;}
+
+// @font-face {font-family: "anticon";
+//     src: url('/static/fonts/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+
+//   }
+
+// .anticon {
+// font-family:"anticon" !important;
+// font-size:16px;
+// font-style:normal;
+// -webkit-font-smoothing: antialiased;
+// -webkit-text-stroke-width: 0.2px;
+// -moz-osx-font-smoothing: grayscale;
+// }
+
+
+// .el-table__footer
+.el-table__footer .cell{
+    text-align: right;
+    color: $yellow;
+}
+.allFactor .el-table__footer .cell{
+    text-align: left;
+    color: #1f2d3d;
+}
+.el-table__footer tr td:first-child .cell{
+    text-align: center;
+    color: #1f2d3d;
+}
+.el-alert--info, .el-tooltip__popper.is-dark{
+    background-color: #fffbe6;
+    color: #2c3e50;
+    line-height: 22px;
+}
+.paginationwrap{
+    height: 70px;
+    border: 1px solid  #E6EBF5;
+    border-top: 0;
+    box-shadow: 0 -1px 3px 0 rgba(0, 0, 0, .08);
+    position: relative;
+    top: -1px;
+    z-index: 2;
+    padding-right: 63px;
+    position: relative;
+    .el-pagination{
+        padding-top: 23px;
+        // margin-top: 20px;
+    }
+    .paginationwrapsum{
+        position: absolute;
+        top: 23px;
+        left: 20px;
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "Code": 0,
+  "Message": "",
+  "Data": [
+    {
+      "brokerId": 219,
+      "brokerName": "杭州我爱我家有限公司"
+    },
+    {
+      "brokerId": 220,
+      "brokerName": "杭州Q房有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Code": 0,
+  "Message": "",
+  "Data": [
+    {
+      "pointId": 0,
+      "pointName": "应收跳点"
+    },
+    {
+      "pointId": 1,
+      "pointName": "应付跳点"
+    }
+  ]
+}

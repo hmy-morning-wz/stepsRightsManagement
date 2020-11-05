@@ -1,0 +1,30 @@
+{
+  "Code": 0,
+  "Message": "",
+  "Data": [
+    {
+      "productId": 1001,
+      "productName": "赞成太和广场"
+    },
+    {
+      "productId": 1002,
+      "productName": "测试卡考一号"
+    },
+    {
+      "productId": 1003,
+      "productName": "顺城花苑"
+    },
+    {
+      "productId": 1004,
+      "productName": "风光月夜城"
+    },
+    {
+      "productId": 1005,
+      "productName": "海运花苑"
+    },
+    {
+      "productId": 1006,
+      "productName": "南星公寓"
+    }
+  ]
+}

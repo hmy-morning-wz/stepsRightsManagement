@@ -1,0 +1,18 @@
+{
+  "Code": 0,
+  "Message": "",
+  "Data": [
+    {
+      "status": 0,
+      "statusName": "待审核"
+    },
+    {
+      "status": 1,
+      "statusName": "审核通过"
+    },
+    {
+      "status": 2,
+      "statusName": "审核不通过"
+    }
+  ]
+}

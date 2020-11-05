@@ -1,0 +1,36 @@
+{
+    "Code": 0,
+    "Message": "",
+    "Data": {
+        "list": {
+            "Items": [
+                {
+                    "AccountCode": "AR00000605",
+                    "AccountCodeSigned": "DF3BB9A8FF33566967153A8B3EA4EDA8",
+                    "AccountName": "代理商的开发商",
+                    "AccountType": 1,
+                    "Company": "代理商",
+                    "ProjectName": "代理商的开发商",
+                    "StoreCode": "",
+                    "city_id": 112,
+                    "CityName": "杭州市",
+                    "EnableTime": "2017-04-01 14:31:11",
+                    "IsEnable": true,
+                    "TotalBill": 0,
+                    "TotalAmount": 0,
+                    "TotalCount": 0,
+                    "TotalBalance": 0,
+                    "Note": ""
+                },
+            ],
+            "Count": 624
+        },
+        "info": {
+            "TotalBillSum": 9435654.92,
+            "TotalAmountSum": 1826300.5348,
+            "TotalBalanceSum": 7609354.3852,
+            "TotalCountSum": 0
+        }
+    },
+    "ServerTime": "2017-06-21 18:52:06"
+}

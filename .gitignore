@@ -1,0 +1,9 @@
+# !!!very important
+
+node_modules/
+npm-debug.log
+.idea/
+css/*
+js_online/*
+.vscode/
+.buildcache

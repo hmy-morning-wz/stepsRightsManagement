@@ -1,0 +1,10 @@
+stages:
+  - deploy
+
+# 定义 job
+SIT collectionProgram deploy:
+  stage: deploy
+  script:
+    - /data/deploy/autocode/sit-oper-auto.sh stepsRightsManagement
+  only:
+    - stable

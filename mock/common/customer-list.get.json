@@ -1,0 +1,34 @@
+{
+  "Code": 0,
+  "Message": "",
+  "Data": [
+    {
+      "brokerId": 219,
+      "brokerName": "周小力"
+    },
+    {
+      "brokerId": 220,
+      "brokerName": "婉芳芳"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州卡考有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "王小二"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "李晓红"
+    },
+    {
+      "brokerId": 221,
+      "brokerName": "杭州安居客有限公司"
+    }
+  ]
+}
